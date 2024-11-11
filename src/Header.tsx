@@ -4,7 +4,7 @@ import { faPlus } from '@fortawesome/free-solid-svg-icons';
 
 const Headerbar = () => {
   return (
-    <div className="flex justify-between px-6 border-b items-center h-[7%]">
+    <div className="flex justify-between px-6 border-b items-center h-[6%]">
       <h1 className="font-bold text-lg">Dienstplan</h1>
       <div className="flex flex-row">
         <button className="bg-white text-secondary h-9 px-4 mr-4 rounded-md flex items-center border-secondary border-[1px]">
