@@ -4,9 +4,11 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: '#1e335e',
-        primaryHover: '#314673',
-        secondary: '#3b82f6',
+        primary: '#275ddc',
+        secondary: '#e5ecf7',
+        bg_gray: '#f7f7f7',
+        bg_white: '#ffffff',
+        dark_gray: '#72767e',
       },
     },
   },
